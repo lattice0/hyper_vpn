@@ -9,3 +9,7 @@ Don't forget to clone recursively
 ```bash
 git clone --recurse-submodules -j8 https://github.com/lattice0/hyper_vpn
 ```
+
+# Contributing
+
+Everything is in a draft state so it would be nice to have contributions to organize things
